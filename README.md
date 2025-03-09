@@ -101,7 +101,7 @@ streamlit run app.py
 
 Want to try AskMyPDF without setup? 🚀  
 
-🔗 **[Try the Live App on Streamlit!](https://multi-pdfschatappai-agent.streamlit.app/)**  
+🔗 **[Try the Live App on Streamlit!](https://askmypdf-chatapp.streamlit.app/)**  
 
 ---
 
