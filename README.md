@@ -4,7 +4,7 @@
 Transform how you interact with PDFs using **Langchain**, **Google Gemini Pro**, and **FAISS Vector DB**!  
 Upload multiple PDFs, extract insights, and chat with them in real-time. 🚀✨  
 
-🔗 **[Try the Demo on Streamlit!](https://multi-pdfschatappai-agent.streamlit.app/)**  
+🔗 **[Try the Demo on Streamlit!](https://askmypdf-chatapp.streamlit.app/)**  
 
 ---
 
